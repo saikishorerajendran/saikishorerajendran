@@ -9,7 +9,7 @@
 
 ### 📫 Reach me on : 
 
-- 🙎🏽‍♂️ [Sai Kishore's LinkedIn](https://www.linkedin.com/in/saikishorerajendran/)
-- 📊 [Sai Kishoe's Kaggle](https://www.kaggle.com/saikish39)
+- 🙎🏽‍♂️ [LinkedIn](https://www.linkedin.com/in/saikishorerajendran/)
+- 📊 [Kaggle](https://www.kaggle.com/saikish39)
 
 ### Kindly leave your feedback in my Repositories. Thank You. 
