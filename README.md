@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! Welcome to my GitHub! 👋
 
-<!--
-**saikishorerajendran/saikishorerajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ... Data Wrangling and Designing Predictive Models (ML,DL) using Python
+- 🌱 I’m currently learning ... Sports Analytics 
+- 👯 I’m looking to collaborate on ... anything related to Data Science and Data Visualization 
+- 🤔 I’m looking for help with ... Sports Analytics and PowerBI
+- 💬 Ask me about ... Data Visualization, Machine Learning, Statistics & DBMS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me on : 
+
+- 🙎🏽‍♂️ [Sai Kishore's LinkedIn](https://www.linkedin.com/in/saikishorerajendran/)
+- 📊 [Sai Kishoe's Kaggle](https://www.kaggle.com/saikish39)
+
+
